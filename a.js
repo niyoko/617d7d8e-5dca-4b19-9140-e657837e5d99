@@ -6,4 +6,5 @@
   $a.css('bottom', '0');
   $a.css('left', '0');
   $a.css('right', '0');
+  $('body').append($a);
 })();
